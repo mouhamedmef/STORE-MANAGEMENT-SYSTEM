@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1738515262 source:c:\users\gebruiker\desktop\c\super_market\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+	<list>
+	<iostream>
+	<string>
+	<list>
+	<deque>
+	<fstream>
+	<ctime>
+	<iomanip>
+
