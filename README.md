@@ -18,10 +18,11 @@ The code provided is a Store Management System implemented in C++. It is designe
 
 ![admin int](store2.png)
 
-![cashier int](store cash.png)
+![cashier int](store_cash.png)
 
-![cashier](store cash 1.png)
+![cashier](store_cash1.png)
 
-![cashier](store cash 2.png)
+![cashier](store_cash2.png)
+
 
 
